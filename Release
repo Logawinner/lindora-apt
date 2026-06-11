@@ -1,7 +1,17 @@
-Origin: Lindora
-Label: Lindora
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: Lindora Qt6 WebEngine APT repository
+Date: Thu, 11 Jun 2026 07:46:01 +0000
+MD5Sum:
+ 6795b8ecc0e020c49e3ebd2786beb34e              796 Packages
+ 0b75096fac60727c26ff6cf553be3baa              487 Packages.gz
+ 7f36369e20a218974bd4c28e9bd56c11               38 Release
+SHA1:
+ bdd0d9423131d5dc40c90e74b2091debfdbca671              796 Packages
+ 29353f366dfcce7ce18d5d4650984c6be8b92245              487 Packages.gz
+ b055a19bd70190a711f578da47316c24304fb95b               38 Release
+SHA256:
+ c0d2b9e1c09e07c1620b81df6caeecb366e8f36d61653f1cc98f71c07e25982e              796 Packages
+ 000812ed1b9dc98f956e0657a2077772759dffdff0b263764e75c037c8e55829              487 Packages.gz
+ ba3da14574e5ed27fb84f4076d3aca02055582012491b492ad850a35b10e1fe2               38 Release
+SHA512:
+ 1e63805b156a6725f5fd93798f70651dcbf1579b7b69066ff5f9841861066d03a829583795164ee062d86e2b395e4a476f920c5c4ca4691ae715841e5e9787f5              796 Packages
+ d2965c79dd3523f781d38a5face9c886a7fcae943ff5241992cf7c87d301fa60399b7a4a52d13cdddacebe908d3c347f717c703dc6a4a28cb869234b1595c8e8              487 Packages.gz
+ 1145fbc26641c25a9bb5fbba110707deea5fe446e1d06bf5f6d59ce108c2552495d542d011c580d764eb5033fb86ced2dc398270203ef0613892ad77568e25a6               38 Release

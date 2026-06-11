@@ -1,0 +1,16 @@
+Package: lindora
+Version: 1.1-1
+Architecture: amd64
+Maintainer: Logawinner <logawinner@example.com>
+Installed-Size: 1872
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6 (>= 6.4.0), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.1.2), libqt6svg6 (>= 6.2.0), libqt6webenginecore6 (>= 6.2.2), libqt6webenginecore6-bin (>= 6.2.2), libqt6webenginewidgets6 (>= 6.2.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Filename: pool/main/lindora/lindora_1.1-1_amd64.deb
+Size: 260684
+MD5sum: 9fd3c1828df6276baade4c9adc0a3ed7
+SHA1: 442ee912d7117d088b00b6377f84b7a4b0102997
+SHA256: 8db6cde9d94198b47f7784eadf996b8d61d2b156ea9d4a8245a48a1ea43bcd99
+Section: sound
+Priority: optional
+Description: Qt6 WebEngine Pandora client
+ Lindora is a Qt6 WebEngine desktop client with tray controls and MPRIS support.
+
