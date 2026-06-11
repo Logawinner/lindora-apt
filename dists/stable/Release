@@ -1,0 +1,29 @@
+Date: Thu, 11 Jun 2026 07:46:58 +0000
+MD5Sum:
+ 6795b8ecc0e020c49e3ebd2786beb34e              796 Packages
+ 0b75096fac60727c26ff6cf553be3baa              487 Packages.gz
+ b0610869f5091a78e6f8b1eca92fd42d             1204 Release
+ 818a8a522608b008f72cc5c142382f7f               38 dists/stable/Release
+ 6795b8ecc0e020c49e3ebd2786beb34e              796 dists/stable/main/binary-amd64/Packages
+ 0b75096fac60727c26ff6cf553be3baa              487 dists/stable/main/binary-amd64/Packages.gz
+SHA1:
+ bdd0d9423131d5dc40c90e74b2091debfdbca671              796 Packages
+ 29353f366dfcce7ce18d5d4650984c6be8b92245              487 Packages.gz
+ 814fb5b1a18965992c95761c8aeb70fac9915161             1204 Release
+ 46294c725f3978aa29ae3a4c1b288871873a1cff               38 dists/stable/Release
+ bdd0d9423131d5dc40c90e74b2091debfdbca671              796 dists/stable/main/binary-amd64/Packages
+ 29353f366dfcce7ce18d5d4650984c6be8b92245              487 dists/stable/main/binary-amd64/Packages.gz
+SHA256:
+ c0d2b9e1c09e07c1620b81df6caeecb366e8f36d61653f1cc98f71c07e25982e              796 Packages
+ 000812ed1b9dc98f956e0657a2077772759dffdff0b263764e75c037c8e55829              487 Packages.gz
+ 6152366185276e497fa43b17d27f0d81efc9af9d8299e0d8b64735b8e40951db             1204 Release
+ 6fcfd59132d277cd161d445207f5d13338874cef610c6415db9f363a60c701f2               38 dists/stable/Release
+ c0d2b9e1c09e07c1620b81df6caeecb366e8f36d61653f1cc98f71c07e25982e              796 dists/stable/main/binary-amd64/Packages
+ 000812ed1b9dc98f956e0657a2077772759dffdff0b263764e75c037c8e55829              487 dists/stable/main/binary-amd64/Packages.gz
+SHA512:
+ 1e63805b156a6725f5fd93798f70651dcbf1579b7b69066ff5f9841861066d03a829583795164ee062d86e2b395e4a476f920c5c4ca4691ae715841e5e9787f5              796 Packages
+ d2965c79dd3523f781d38a5face9c886a7fcae943ff5241992cf7c87d301fa60399b7a4a52d13cdddacebe908d3c347f717c703dc6a4a28cb869234b1595c8e8              487 Packages.gz
+ 539d4ba267d58d0ead09955bdc112e295da45e62138bc5f6309f527b8715148678d136c9f825e6de57e1cacd80a45705ca9d8b1cbdf5aa22c65fe4547ab08494             1204 Release
+ 96c482b81a00fa9e0e403054339483e1bf685b12c2eeba91be959e8cdf744044e2dbf098645c941b12d75f26c9e74842a5685c5d1446a5fdbc5f0eda3d1549f9               38 dists/stable/Release
+ 1e63805b156a6725f5fd93798f70651dcbf1579b7b69066ff5f9841861066d03a829583795164ee062d86e2b395e4a476f920c5c4ca4691ae715841e5e9787f5              796 dists/stable/main/binary-amd64/Packages
+ d2965c79dd3523f781d38a5face9c886a7fcae943ff5241992cf7c87d301fa60399b7a4a52d13cdddacebe908d3c347f717c703dc6a4a28cb869234b1595c8e8              487 dists/stable/main/binary-amd64/Packages.gz
