@@ -1,0 +1,7 @@
+Origin: Lindora
+Label: Lindora
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Lindora Qt6 WebEngine APT repository
